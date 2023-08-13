@@ -1,0 +1,168 @@
+.wf-force-outline-none[tabindex="-1"]:focus {
+  outline: none;
+}
+
+/*  Media Queries */
+@media (min-width: 992px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="3fadac9e-248c-ccc4-f19a-f9a9abc7fc52"] {
+    -webkit-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="bd11d9d3-1f38-30c7-f551-269d5b645351"] {
+    -webkit-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="66416161-20e0-82bc-15a2-33062ba7c6d0"] {
+    -webkit-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="7721f517-f1c7-aa27-99c8-ce4315523ae0"] {
+    -webkit-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="a4f20c94-f77d-5612-6f88-8ba669c39129"] {
+    -webkit-transform: translate3d(0, 25vw, 0) scale3d(0.4, 0.4, 1) rotateX(0)
+      rotateY(0) rotateZ(720deg) skew(0, 0);
+    -moz-transform: translate3d(0, 25vw, 0) scale3d(0.4, 0.4, 1) rotateX(0)
+      rotateY(0) rotateZ(720deg) skew(0, 0);
+    -ms-transform: translate3d(0, 25vw, 0) scale3d(0.4, 0.4, 1) rotateX(0)
+      rotateY(0) rotateZ(720deg) skew(0, 0);
+    transform: translate3d(0, 25vw, 0) scale3d(0.4, 0.4, 1) rotateX(0)
+      rotateY(0) rotateZ(720deg) skew(0, 0);
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="3fadac9e-248c-ccc4-f19a-f9a9abc7fc52"] {
+    -webkit-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    transform: translate3d(0vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="bd11d9d3-1f38-30c7-f551-269d5b645351"] {
+    -webkit-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-22vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="66416161-20e0-82bc-15a2-33062ba7c6d0"] {
+    -webkit-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-43vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+  html.w-mod-js:not(.w-mod-ix)
+    [data-w-id="7721f517-f1c7-aa27-99c8-ce4315523ae0"] {
+    -webkit-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -moz-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    -ms-transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0)
+      rotateY(0) rotateZ(0) skew(0, 0);
+    transform: translate3d(-65vw, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0)
+      rotateZ(0) skew(0, 0);
+    background-color: rgb(205, 198, 190);
+  }
+}
+
+.under {
+  text-underline-offset: 0.3vw;
+  text-decoration-thickness: 0.6vw;
+}
+
+.aw-desc,
+.under {
+  text-decoration: underline;
+  text-underline-offset: 0.3vw;
+  text-decoration-thickness: 0.5px;
+  text-decoration-color: #0000007a;
+}
+
+/* Menu Nav Active */
+
+.m-active.index {
+  display: block;
+}
+
+.m-active.work,
+.m-active.about {
+  display: none !important;
+}
+
+[data-gl-image] canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+}
+
+[data-gl-image] img {
+  display: block;
+  opacity: 0;
+  pointer-events: none;
+}
+
+html.no-scroll,
+html.no-scroll body {
+  overflow: hidden;
+}
+
+html.no-scroll nav.nav {
+  transform: unset !important;
+}
+
+#app > header [data-butter-slidable] {
+  transform: translateX(-62vw);
+}
