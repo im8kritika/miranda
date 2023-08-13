@@ -2199,53 +2199,14 @@
       }
       setPathnameClass();
     </script>
+
+    <!--Butter Slider Library-->
     <script src="https://unpkg.com/butter-slider"></script>
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const sliders = butterSlider.autoInit();
-        console.log(sliders);
+    <script src="./src/butterSlider.js"></script>
 
-        sliders[0].smoothAmount = 1;
-        sliders[0].setRelativePosition(
-          window.innerWidth * (0.62 / sliders[0].dragSpeed)
-        );
-        sliders[0].smoothAmount = 0.15;
-      });
-    </script>
+    <script src="./src/nav.js"></script>
 
-    <script>
-      window.scrollTo(0, 0);
-      if (window.innerWidth >= 768) {
-        document.documentElement.classList.add("no-scroll");
-
-        setTimeout(() => {
-          const nav = document
-            .querySelector("nav.nav")
-            .style.removeProperty("transform");
-          document.documentElement.classList.remove("no-scroll");
-        }, 5000);
-      }
-    </script>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        setTimeout(() => {
-          if (!window.locomotive) return;
-          // prevent scroll durin appear animation
-          window.locomotive.stop();
-
-          setTimeout(() => {
-            window.locomotive.update();
-          }, 0);
-
-          setTimeout(() => {
-            window.locomotive.update();
-            window.locomotive.start();
-          }, 5000);
-          // prevent scroll durin appear animation
-        }, 0);
-      });
-    </script>
+    <script src="./src/scrollAnim.js"></script>
   </body>
 </html>
